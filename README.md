@@ -1,11 +1,10 @@
-# svm_lite
+# svm-lite
 
-svm_lite - Support vector machine with SMO optimizer and kernels.
-
-Zero-dependency, single-file Python CLI.
+Single-file Python CLI. Zero dependencies.
 
 ## Usage
 
 ```bash
 python3 svm_lite.py
+python3 svm_lite.py test
 ```
